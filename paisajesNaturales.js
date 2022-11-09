@@ -1,1 +1,1 @@
-const paisajes = ['cataratas', 'montañas', 'playas', 'desiertos'];
+const paisajes = ['cataratas', 'montañas', 'playas', 'desiertos', 'selvas', 'lagos'];
