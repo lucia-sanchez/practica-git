@@ -1,0 +1,1 @@
+const plantas = ['arboles', 'arbustos', 'flores']
