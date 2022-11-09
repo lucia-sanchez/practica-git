@@ -1,0 +1,1 @@
+const animales = ['leon', 'puma', 'tigre'];
